@@ -8,7 +8,7 @@ const monaSans = Mona_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Interview Coach",
+  title: "InterIQ",
   description: "An AI-powered platform for preparing for interviews.",
 };
 
